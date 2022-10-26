@@ -1,0 +1,5 @@
+print("Veuillez saisir trois entiers")
+a = int(input())
+b = int(input())
+c = int(input())
+print("La moyenne des entiers saisis est:", (a + b + c)/3)
